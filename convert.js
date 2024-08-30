@@ -24,3 +24,5 @@ var total = (first + second);
 console.log(total.toFixed(1));
 
 
+
+
